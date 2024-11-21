@@ -12,7 +12,7 @@ node_modules/
 Thumbs.db
 
 # Build directories (for example, if you're using Webpack)
-build/
+# build/
 
 # NPM
 npm-debug.log
