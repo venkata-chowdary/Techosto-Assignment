@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Techosto-Assignment/static/css/main.5a6c2d4d.css",
-    "main.js": "/Techosto-Assignment/static/js/main.5eb2322e.js",
+    "main.js": "/Techosto-Assignment/static/js/main.81b11e3d.js",
     "index.html": "/Techosto-Assignment/index.html",
     "main.5a6c2d4d.css.map": "/Techosto-Assignment/static/css/main.5a6c2d4d.css.map",
-    "main.5eb2322e.js.map": "/Techosto-Assignment/static/js/main.5eb2322e.js.map"
+    "main.81b11e3d.js.map": "/Techosto-Assignment/static/js/main.81b11e3d.js.map"
   },
   "entrypoints": [
     "static/css/main.5a6c2d4d.css",
-    "static/js/main.5eb2322e.js"
+    "static/js/main.81b11e3d.js"
   ]
 }

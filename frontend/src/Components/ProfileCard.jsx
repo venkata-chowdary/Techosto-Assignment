@@ -33,7 +33,7 @@ const ProfileCard = ({ user, setUsers }) => {
 
     const onFinish = (values) => {
         axios
-            .put(`http://localhost:5000/api/edit-user-details/${user._id}`, values)
+            .put(`https://techosto-task-3.onrender.com/api/edit-user-details/${user._id}`, values)
             .then((response) => {
                 if (response.status === 200) {
                     setUsers((prevUsers) =>
@@ -54,7 +54,7 @@ const ProfileCard = ({ user, setUsers }) => {
 
     const handleDelete = () => {
         axios
-            .delete(`http://localhost:5000/api/delete-user/${user._id}`)
+            .delete(`https://techosto-task-3.onrender.com/api/delete-user/${user._id}`)
             .then((response) => {
                 if (response.status === 200) {
                     setUsers((prevUsers) => prevUsers.filter((u) => u._id !== user._id));
