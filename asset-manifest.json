@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/venkata-chowdary/Techosto-Assignment-react/static/css/main.5a6c2d4d.css",
-    "main.js": "/venkata-chowdary/Techosto-Assignment-react/static/js/main.5eb2322e.js",
-    "index.html": "/venkata-chowdary/Techosto-Assignment-react/index.html",
-    "main.5a6c2d4d.css.map": "/venkata-chowdary/Techosto-Assignment-react/static/css/main.5a6c2d4d.css.map",
-    "main.5eb2322e.js.map": "/venkata-chowdary/Techosto-Assignment-react/static/js/main.5eb2322e.js.map"
+    "main.css": "/Techosto-Assignment/static/css/main.5a6c2d4d.css",
+    "main.js": "/Techosto-Assignment/static/js/main.5eb2322e.js",
+    "index.html": "/Techosto-Assignment/index.html",
+    "main.5a6c2d4d.css.map": "/Techosto-Assignment/static/css/main.5a6c2d4d.css.map",
+    "main.5eb2322e.js.map": "/Techosto-Assignment/static/js/main.5eb2322e.js.map"
   },
   "entrypoints": [
     "static/css/main.5a6c2d4d.css",
