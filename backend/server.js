@@ -6,9 +6,10 @@ const app = express();
 require('dotenv').config();
 
 app.use(bodyParser.json());
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors())
 
-mongoose.connect(process.env.MONGOURL2, {
+
+mongoose.connect(process.env.MONGOURL3, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
