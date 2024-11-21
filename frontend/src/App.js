@@ -11,7 +11,7 @@ function App() {
   useEffect(() => {
     setLoading(true)
     axios
-      .get('https://techosto-assignment-task.onrender.com/api/get-user-details/')
+      .get('https://techosto-task-3.onrender.com/api/get-user-details/')
       .then((response) => {
         setUsers(response.data);
         setLoading(false)
