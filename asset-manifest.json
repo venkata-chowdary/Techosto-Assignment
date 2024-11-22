@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Techosto-Assignment/static/css/main.5a6c2d4d.css",
-    "main.js": "/Techosto-Assignment/static/js/main.6f550c1f.js",
-    "index.html": "/Techosto-Assignment/index.html",
-    "main.5a6c2d4d.css.map": "/Techosto-Assignment/static/css/main.5a6c2d4d.css.map",
-    "main.6f550c1f.js.map": "/Techosto-Assignment/static/js/main.6f550c1f.js.map"
+    "main.css": "/venkatachowdary_assignment_3_/static/css/main.5a6c2d4d.css",
+    "main.js": "/venkatachowdary_assignment_3_/static/js/main.6f550c1f.js",
+    "index.html": "/venkatachowdary_assignment_3_/index.html",
+    "main.5a6c2d4d.css.map": "/venkatachowdary_assignment_3_/static/css/main.5a6c2d4d.css.map",
+    "main.6f550c1f.js.map": "/venkatachowdary_assignment_3_/static/js/main.6f550c1f.js.map"
   },
   "entrypoints": [
     "static/css/main.5a6c2d4d.css",
